@@ -47,7 +47,7 @@
     "cookiejar": "^2.0.6",
     "is-ip": "^1.0.0",
     "qs": "^6.1.0",
-    "simplifyify": "^2.0.1"
+    "simplifyify": "^4.0.3"
   },
   "devDependencies": {
     "coveralls": "^2.11.6",
